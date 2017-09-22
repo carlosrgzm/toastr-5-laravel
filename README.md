@@ -1,7 +1,7 @@
 toastr
 ======
 
-Easy [toastr.js](https://github.com/CodeSeven/toastr) notifications for Laravel 5, a ported version of Laravel 4 Toastr by [kamaln7](https://github.com/kamaln7/toastr)
+Easy [toastr.js](https://github.com/CodeSeven/toastr) notifications for Laravel 5.5, a ported version of Laravel 4 Toastr by [kamaln7](https://github.com/kamaln7/toastr)
 
 Installation
 ------------
