@@ -1,6 +1,6 @@
 {
   "name": "carlosrgzm/toastr-5-laravel",
-  "description": "Easy toastr notifications for Laravel 5.4 or lower",
+  "description": "Easy toastr notifications for Laravel 5.5",
   "keywords": [
     "toastr",
     "notification",
