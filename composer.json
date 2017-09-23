@@ -1,6 +1,6 @@
 {
   "name": "carlosrgzm/toastr-5-laravel",
-  "description": "Easy toastr notifications for Laravel 5.4 or lower",
+  "description": "Easy toastr notifications for Laravel 5.5",
   "keywords": [
     "toastr",
     "notification",
@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=7.0",
     "illuminate/support": ">=5.0.0",
     "illuminate/session": ">=5.0.0"
   },
